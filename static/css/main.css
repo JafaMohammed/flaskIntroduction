@@ -1,8 +1,7 @@
-body, html{
-    margin: 0px;
-    font-family: 'Courier New', Courier, monospace;
+body, html {
+    margin: 0;
+    font-family: sans-serif;
 }
-
 
 .content {
     margin: 0 auto;
